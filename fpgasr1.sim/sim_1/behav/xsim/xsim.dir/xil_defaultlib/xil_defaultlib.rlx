@@ -1,0 +1,13 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sim_1/new/tb_top.v,1773307306,verilog,,,,tb_top,,,,,,,,
+C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/fc_layer.v,1773305785,verilog,,C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/mac_unit.v,,fc_layer,,,,,,,,
+C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/image_loader.v,1772967057,verilog,,C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/mac_unit.v,,image_loader,,,,,,,,
+C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/mac_unit.v,1773238397,verilog,,C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/maxpool.v,,mac_unit,,,,,,,,
+C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/maxpool.v,1772618747,verilog,,C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/predictor.v,,maxpool,,,,,,,,
+C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/predictor.v,1773307096,verilog,,C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/relu.v,,predictor,,,,,,,,
+C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/relu.v,1772963523,verilog,,C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/top_module.v,,relu,,,,,,,,
+C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sources_1/new/top_module.v,1773580425,verilog,,C:/Users/kaman/Downloads/fpgasr/fpgasr1/fpgasr1.srcs/sim_1/new/tb_top.v,,top_module,,,,,,,,

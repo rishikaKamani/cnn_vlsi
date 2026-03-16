@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../fpgasr1.srcs/sources_1/new/fc_layer.v" \
+"../../../../fpgasr1.srcs/sources_1/new/mac_unit.v" \
+"../../../../fpgasr1.srcs/sources_1/new/maxpool.v" \
+"../../../../fpgasr1.srcs/sources_1/new/predictor.v" \
+"../../../../fpgasr1.srcs/sources_1/new/relu.v" \
+"../../../../fpgasr1.srcs/sources_1/new/top_module.v" \
+"../../../../fpgasr1.srcs/sim_1/new/tb_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
